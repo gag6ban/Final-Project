@@ -3,7 +3,7 @@
 # Case Study: NLP Language
 
 ![real-state-project.jpeg](images/real-state-project.jpeg)
-Colaborators [Marian Moreno](https://github.com/marimor62) and [Antonio Saleme](https://github.com/thusspokedata)
+
 
 ### Index:
 
@@ -20,7 +20,7 @@ Colaborators [Marian Moreno](https://github.com/marimor62) and [Antonio Saleme](
 <a id='section1'></a>
 ### Scenario
 
-In this project we are working as analysts for a real estate company. Our company "Luna Lovegood"  created a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
+In this project we are working as analysts for a consultant company. Our company created a machine learning NLP model to predict whether the sms received is spam or not spam (ham). 
 <a id='section2'></a>
 ### Objective
 
