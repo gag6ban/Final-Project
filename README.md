@@ -42,6 +42,12 @@ SMS spam is not familiar compared to mail spam.
 
 Downloaded from [Link to tableau story]([https://public.tableau.com/profile/marian.moreno#!/vizhome/Book1_16190202108450/Story1](https://archive-beta.ics.uci.edu/datasets?%7B%22search%22%3A%7B%22searchBy%22%3A%22name%22%2C%22searchTerm%22%3A%22SMS%20Spam%20Collection%22%7D%7D))
 
+Each line of dataset is formatted as follow:
+
+label of the message
+text message string
+
+
  <a id='section4'></a>
 ### First ideas
 
