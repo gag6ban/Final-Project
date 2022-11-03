@@ -33,23 +33,18 @@ SMS spam is not familiar compared to mail spam.
 <a id='section3'></a>
 ### Approach
 
-The dataset we used consists of information on 22,000 properties and contains historic data of houses sold between May 2014 to May 2015.
-Our first approach consisted of:
-                                * Importing the data
-                                * Exploring the data (EDA Method)
-                                * Data wrangling
-                                * Data cleaning
-                                * Check for multicolinearity
-
- <a id='section4'></a>
-### First ideas
-
 * The dataset for this project is a large text file established by a database of 5574 real text messages from UCI Machine Learning repository gathered in 2012 which contains:
 
 * 425 SMS spam messages from the Grumbletext website (a UK forum in which cell phone users make public claims about SMS spam.
 * 3375 SMS non-spam messages from the NUS SMS Corpus (NSC).
 * 450 SMS non-spam messages from Caroline Tag's PhD Thesis.
 * 1002 SMS non-spam and 322 spam messages from SMS Spam Corpus v.0.1 Big.
+
+Downloaded from [Link to tableau story]([https://public.tableau.com/profile/marian.moreno#!/vizhome/Book1_16190202108450/Story1](https://archive-beta.ics.uci.edu/datasets?%7B%22search%22%3A%7B%22searchBy%22%3A%22name%22%2C%22searchTerm%22%3A%22SMS%20Spam%20Collection%22%7D%7D))
+
+ <a id='section4'></a>
+### First ideas
+
 
 
 <img src="images/bathrooms definition.png"/>
