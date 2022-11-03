@@ -8,7 +8,7 @@
 ### Index:
 
 * [Scenario](#section1)
-* [Objetive](#section2)
+* [Objective](#section2)
 * [Approach](#section3)
 * [First ideas](#section4)
 * [In-Depth Analysis](#section5)
@@ -24,8 +24,9 @@ In this project we are working as analysts for a consultant company. Our company
 <a id='section2'></a>
 ### Objective
 
-The senior management of the real estate company also wants to explore the characteristics of the houses using some business intelligence tools. One of those parameters includes understanding which factors are responsible for higher property value - $650K and above.
-We followed this workflow in Python in order to build the required model:
+Short Message Service (SMS) is a text communication platform that allows mobile phone users to exchange short text messages (usually less than 160 7-bit characters) at a low cost. The amount of unsolicited commercial advertisements (spams) over SMS will be bigger since the cost of SMS will decrease.
+
+SMS spam is not familiar compared to mail spam.
 ![Get and explore the data_ using Pandas library.jpg](images/Get and explore the data_ using Pandas library.jpg)
 
 
@@ -43,11 +44,13 @@ Our first approach consisted of:
  <a id='section4'></a>
 ### First ideas
 
-* The total dataset consited not of 22,000 rows but of 21,597 rows.
-We did not find any duplicated data but some of the houses were sold more than once during the time period between May 2014 to May 2015. As we wanted to predict the price of houses regarding different features such as the year when it was sold, there was no need to drop or modify these rows.
-* We found a share of renovated houses of 4.23%.
-* We also found a house with 33 rooms - outlier or typo? We figured that a house with 33 rooms could be a hostel or hotel but then we noticed that the 33 rooms are located on just one floor with around 100 sqm. This clearly has to be an error, because it is physically unlikely. This piece of data seems to be a typo and it should actually be 3 bedrooms.
-* We clarified the definitions of the feature "bathrooms":
+* The dataset for this project is a large text file established by a database of 5574 real text messages from UCI Machine Learning repository gathered in 2012 which contains:
+
+* 425 SMS spam messages from the Grumbletext website (a UK forum in which cell phone users make public claims about SMS spam.
+* 3375 SMS non-spam messages from the NUS SMS Corpus (NSC).
+* 450 SMS non-spam messages from Caroline Tag's PhD Thesis.
+* 1002 SMS non-spam and 322 spam messages from SMS Spam Corpus v.0.1 Big.
+
 
 <img src="images/bathrooms definition.png"/>
 
