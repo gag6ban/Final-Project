@@ -1,6 +1,6 @@
 # Final-Project
 
-# Case Study: NLP Language
+# Case Study: SMS Spam or Ham (using NLP Language)
 
 ![real-state-project.jpeg](images/real-state-project.jpeg)
 
@@ -79,6 +79,4 @@ and our accuracy score R2 was relatively close to 1, so the model performs well,
 
 
 
-### SQL
 
-By using SQL we tried to reach a deeper understanding of our dataset. We used queries to answer the questions posed by the real estate company. Follow the [link](https://github.com/marimor62/Midtermproject-Housing/blob/69d56c6d43351a4e1fe94910e53ff1ff00e6865f/SQL/proj_luna.sql) to dive into our queries. 
